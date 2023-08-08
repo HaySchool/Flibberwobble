@@ -1,0 +1,4 @@
+button, input, textarea, select {
+    @apply !ring-0 !outline-none 
+}
+    

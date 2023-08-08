@@ -1,0 +1,6 @@
+@import "config/fontDefault.css"; 
+@import "config/btn.css"; 
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
